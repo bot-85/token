@@ -8,7 +8,7 @@ banner=(
 ▐─▌──█▀▌──▐▀▌▀█▀  ● Facebook Bintang Tzy
 ─▀───▌─▌──▐─▌
 ─────█─█──▐▌█
-\x1b[0;91m support python2 dan python3
+                          \x1b[0;91m support python2 dan python3
 							""")                                               
 urls="https://business.facebook.com/business_locations"
 _ses=requests.Session()
